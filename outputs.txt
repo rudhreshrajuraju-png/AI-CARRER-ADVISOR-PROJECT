@@ -1,0 +1,11 @@
+Enter your career question  what is ai
+
+AI RESPONSE
+
+AIML Roadmap
+- Learn Python + NumPy + Pandas
+- Study ML basics regression, classification, clustering
+- Learn Scikit-learn and a DL framework
+- Build projects prediction, NLP, vision
+- Show projects on GitHub
+
